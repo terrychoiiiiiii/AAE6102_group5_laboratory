@@ -7,8 +7,8 @@
   <h3 align="center">AAE6102</h3>
 
   <p align="center">
-    Laboratory Group 5
-    Choi Yan To 23125113R
+    Laboratory Group 5  
+    Choi Yan To 23125113R  
     Zou Kang 23131946R
   </p>
 </div>
