@@ -8,6 +8,8 @@
 
   <p align="center">
     Laboratory Group 5
+    Choi Yan To 23125113R
+    Zou Kang 23131946R
   </p>
 </div>
 
